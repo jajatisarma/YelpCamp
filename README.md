@@ -47,7 +47,6 @@ To run and understand Yelp Camp, you will need the following:
 - JavaScript
 
 ## Installation
-## 🚀 Getting Started
 ### To run this project on your system:
 Clone the repository and navigate to the project directory:
 ```
